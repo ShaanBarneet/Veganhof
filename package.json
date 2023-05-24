@@ -1,7 +1,11 @@
 {
-  "name": "atprod",
+  "name": "VeganHofPage",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Barneet Panda",
+    "email": "barneetpanda@gmail.com"
+  },
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
